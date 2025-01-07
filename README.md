@@ -48,3 +48,22 @@ This is a Flask-based REST API that tracks and manages a single user's points fr
     "MILLER COORS": 5300,
     "UNILEVER": 0
   }
+
+## **How to Run**
+
+### **Requirements**
+- Python 3.7+ installed on your system.
+- Flask library for Python.
+
+---
+
+### **Setup Instructions**
+1. **Clone the Repository**:
+   Clone the project repository from GitHub:
+   ```bash
+   git clone https://github.com/fetch8462/FetchBackend.git
+   cd FetchBackend
+Create and Activate a Virtual Environment:
+
+
+
