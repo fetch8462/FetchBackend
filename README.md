@@ -63,7 +63,27 @@ This is a Flask-based REST API that tracks and manages a single user's points fr
    ```bash
    git clone https://github.com/fetch8462/FetchBackend.git
    cd FetchBackend
-Create and Activate a Virtual Environment:
+2. **Create and Activate a Virtual Environment**:
+      - **Linux/Mac**:
+     ```bash
+     python3 -m venv myenv
+     source myenv/bin/activate
+     ```
+   - **Windows**:
+     ```bash
+     python -m venv myenv
+     myenv\Scripts\activate
+     ```
+3. **Install Flask**:
+   Install Flask within your virtual environment:
+  ```bash
+  pip install flask
+
+4. **Run the API**:
+  Run the application using Python:
+  ```bash
+  python3 main.py
+
 
 
 
