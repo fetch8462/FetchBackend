@@ -70,7 +70,7 @@ This is a Flask-based REST API that tracks and manages a single user's points fr
      source myenv/bin/activate
      ```
    - **Windows**:
-     ```bash
+   ```bash
      python -m venv myenv
      myenv\Scripts\activate
      ```
