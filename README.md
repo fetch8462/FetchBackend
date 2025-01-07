@@ -75,15 +75,14 @@ This is a Flask-based REST API that tracks and manages a single user's points fr
      myenv\Scripts\activate
      ```
 3. **Install Flask**:
-   Install Flask within your virtual environment:
+  Install Flask within your virtual environment:
   ```bash
   pip install flask
 
-4. **Run the API**:
+4. **Run the API**: 
   Run the application using Python:
   ```bash
   python3 main.py
-
 
 
 
