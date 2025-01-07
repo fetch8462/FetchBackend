@@ -22,7 +22,7 @@ This is a Flask-based REST API that tracks and manages a single user's points fr
     "timestamp": "2023-01-01T14:00:00Z"
   }
 
-  ### **2. Spend Points**
+### **2. Spend Points**
 - **Route**: `/spend`
 - **Method**: `POST`
 - **Description**: Subtracts a specified amount of points from the user's balance
