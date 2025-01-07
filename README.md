@@ -82,7 +82,7 @@ This is a Flask-based REST API that tracks and manages a single user's points fr
 
 4. **Run the API**: 
   Run the application using Python:
-  ```bash
+```bash
   python3 main.py
 
 
