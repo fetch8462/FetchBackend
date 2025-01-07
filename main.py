@@ -3,7 +3,6 @@ from datetime import datetime
 
 app = Flask(__name__)
 
-
 transactions = []
 balances = {}
 
@@ -79,7 +78,6 @@ def spend_points():
 
             break
     return jsonify(response), 200
-
 
 @app.route('/balance')
 def current_balance():
